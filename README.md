@@ -1,31 +1,30 @@
 # Artificial-Intelligence
 
-## **Opis:**
-Artificial-Intelligence to repozytorium poświęcone programowaniu związane z sztuczną inteligencją. Znajdziesz tutaj przykładowe projekty, algorytmy, narzędzia i materiały edukacyjne związane z tworzeniem inteligentnych systemów.
+## **Description:**
+Artificial-Intelligence is a repository dedicated to programming related to artificial intelligence. Here you will find example projects, algorithms, tools and educational materials related to the creation of intelligent systems.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których wykorzystuje się programowanie związane ze sztuczną inteligencją. Każdy projekt posiada swój własny folder z opisem, plikami projektowymi i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use AI-related programming. Each project has its own folder with description, project files and source code.
 
-/Algorytmy: W tym folderze znajdują się implementacje różnych algorytmów sztucznej inteligencji, takich jak sieci neuronowe, algorytmy genetyczne czy algorytmy uczenia maszynowego.
+/Algorithms: This folder contains implementations of various artificial intelligence algorithms, such as neural networks, genetic algorithms, and machine learning algorithms.
 
-/Narzędzia: Tutaj znajdują się narzędzia programistyczne, biblioteki i frameworki, które mogą ułatwić tworzenie inteligentnych systemów oraz przetwarzanie danych.
+/Tools: Here are development tools, libraries and frameworks that can facilitate the creation of intelligent systems and data processing.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Artificial-Intelligence.git
+git clone https://github.com/yourusername/Artificial-Intelligence.git
 ```
 
-Przeglądaj dostępne projekty, algorytmy, narzędzia i materiały w odpowiednich folderach.
+Browse available designs, algorithms, tools and materials in their respective folders.
 
-Wykorzystaj dostępne zasoby i narzędzia, aby tworzyć inteligentne systemy i eksperymentować z sztuczną inteligencją.
+Use available resources and tools to create intelligent systems and experiment with artificial intelligence.
 
-## **Wymagania systemowe**
-Aby rozpocząć programowanie związane ze sztuczną inteligencją, będziesz potrzebować odpowiednich narzędzi programistycznych, bibliotek sztucznej inteligencji i platform do przetwarzania danych, takich jak Python z bibliotekami takimi jak TensorFlow, PyTorch czy Scikit-learn. Upewnij się, że masz zainstalowane wymagane oprogramowanie zgodnie z preferencjami i potrzebami projektu.
+## **System requirements**
+To get started with AI development, you'll need the right development tools, AI libraries, and data processing platforms like Python with libraries like TensorFlow, PyTorch, and Scikit-learn. Make sure you have the required software installed according to your project preferences and needs.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z programowaniem sztucznej inteligencji. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests or share your own AI development projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
